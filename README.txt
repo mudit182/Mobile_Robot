@@ -2,7 +2,7 @@ Hi!
 
 This is my own "Quickbot" mobile robot used for simulation assignments in the awesome online course "Control of Mobile Robots (Georgia University)" available on Coursera.org.
 
-The robot is built entirely on Python3. The packages you need are: numpy.
+The robot is built entirely using Python3. The packages you need are: numpy.
 
 The GUI is very basic as of now, just a simple window displaying the obstacles, the robot car and the goal.
 
