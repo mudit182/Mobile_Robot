@@ -1,0 +1,8 @@
+{
+    "type": "Mobile Robot",
+    "size": [40, 20],
+    "location": [-300, 0],
+    "orientation": 0.05,
+    "speed": 0,
+    "angularSpeed": 0
+}
