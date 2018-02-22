@@ -51,7 +51,7 @@ class ModeGTG(SpeedTurnController):
     def __init__(self):
         SpeedTurnController.__init__(self, "Go To Goal")
         self.setSpeedController(5, 0.1, 0, 50)
-        self.setOrientationController(10, 0.1, 0.05)
+        self.setOrientationController(5, 0.1, 0.05)
 
     def execute(self, robot, timeElapsed):
         self._initMode(robot)

@@ -26,7 +26,7 @@ class Car:
         self.eventCheck()
         # self.behaviors["GTG"].execute(self, timeElapsed)
         # self.behaviors["AO"].execute(self, timeElapsed)
-        # self.behaviors["AOGTG"].execute(self, timeElapsed)
+        #   self.behaviors["AOGTG"].execute(self, timeElapsed)
         # self.behaviors["FW"].execute(self, timeElapsed)
         # self.behaviors["NoFW"].execute(self, timeElapsed)
         self.behaviors["Full"].execute(self, timeElapsed)

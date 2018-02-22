@@ -25,7 +25,7 @@ class World:
         self.goal = np.array([-300, 100])
         self.obstacles = []
         try:
-            with open('World/environment3.json', 'r') as file:
+            with open('World/environment5.json', 'r') as file:
                 environmentInfo = json.load(file)
         except Exception as e:
             print("Error! Obstacles.json file not read!")
